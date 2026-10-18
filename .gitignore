@@ -1,0 +1,36 @@
+# Journals and journal data (never commit)
+journals/
+journal/
+*.journal
+*.jsonl
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials*.json
+*.secret
+
+# Local artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+logs/
+tmp/
+.cache/
+.DS_Store
+*.swp
+.idea/
+.vscode/
