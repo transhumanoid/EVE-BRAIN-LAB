@@ -1,10 +1,10 @@
 # Bi-hourly Push Diagnostic - Run 73 (local count file: 1/6)
 
-Timestamp: 2026-11-27T09:14Z AEDT (approx, current session)
+Timestamp: 2026-11-27T03:12Z UTC (AEDT 14:12 Nov 27)
 
-Roster push executed. Local count at /workspace/artifacts/brain_lab/bi_hourly_push_count.json is 1/6 (file created if missing as {"count": 0}, then incremented).
+Roster push executed. Local count at /home/workdir/artifacts/brain_lab/bi_hourly_push_count.json is 1/6 (file created if missing as {"count": 0}, then incremented).
 
-No local journal, heartbeat, or activity records found for any bots (journals are gitignored; no accessible runtime state in sandbox). Last diagnostic activity from previous push ~recent. All bots treated as idle >2h (and >24h with no activity traces) due to lack of bot-specific activity records.
+No local journal, heartbeat, or activity records found for any bots (journals are gitignored; no accessible runtime state in sandbox). Last diagnostic activity from push_72 ~12 hours prior. All bots treated as idle >2h (and >24h with no activity traces) due to lack of bot-specific activity records.
 
 Bots pushed (prompts issued to resume routine work):
 - Eve Self-Improve Circle: Resume self-improve cycle.
